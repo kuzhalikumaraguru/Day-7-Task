@@ -1,0 +1,1 @@
+Day 7 task - MRF functions - Map, reduce, filter and foreach to perform tasks.
